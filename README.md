@@ -412,3 +412,8 @@ docker pull `USUARIO_DOCKER_HUB`/jogo-par-impa:1.0
 docker run -it `USUARIO_DOCKER_HUB`/jogo-par-impar:1.0
 
 ```
+<img width="1262" alt="Screenshot 2024-02-04 at 19 50 40" src="https://github.com/Manuua/Docker/assets/91172005/2a118644-21ae-4747-8411-b4d84d001684">
+
+
+<img width="1267" alt="Screenshot 2024-02-04 at 20 14 47" src="https://github.com/Manuua/Docker/assets/91172005/d9fd03e2-9ef8-4085-a287-eb116e2cb4aa">
+
